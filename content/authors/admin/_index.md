@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Wajdi Aljedaani
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Wajdi
+last_name: Aljedaani
 
 # Status emoji
 status:
@@ -18,8 +18,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of North Texas
+    url: https://www.unt.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Computer Science
+      institution: University of North Texas
+      year: 2022
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2019
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wajdi Aljedaani is a professor of Software Engineering at the University of North Texas Lab. 
 {style="text-align: justify;"}
