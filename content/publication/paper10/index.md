@@ -1,17 +1,12 @@
 ---
-title: "The state of accessibility in blackboard: Survey and user reviews case study"
+title: "Comparative Analysis of Accessibility Testing Tools and Their Limitations in RIAs"
 authors:
+  - Ahmad M Al-Shomar
+  - Muhammad Al-Qurish
   - Wajdi Aljedaani
-  - Mohammed Alkahtani
-  - Stephanie Ludi
-  - Mohamed Wiem Mkaouer
-  - Marcelo M Eler
-  - Marouane Kessentini
-  - Ali Ouni
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-date: "2023-09-01T00:00:00Z"
+  
+  
+date: "2022-12-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,37 +16,37 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
-abstract: Nowadays, mobile applications (or apps) have become vital in our daily life, particularly within education. Many institutions increasingly rely on mobile apps to provide access to all their students. However, many education mobile apps remain inaccessible to users with disabilities who need to utilize accessibility features like talkback or screen reader features. Accessibility features have to be considered in mobile apps to foster equity and inclusion in the educational environment allowing to use of such apps without limitations. Gaps in the accessibility to educational systems persist.
+abstract: Twitter being among the popular social media platforms, provide peoples’ opinions regarding specific ideas, products, services, etc. The large amounts of shared data as tweets can help extract users’ sentiment and provide valuable feedback to improve the quality of products and services alike. Similar to other service industries, the airline industry utilizes such feedback for determining customers’ satisfaction levels and improving the quality of experience where needed. This, of course, requires accurate sentiments from the user tweets. Existing sentiment analysis models suffer from low accuracy on account of the contradictions found in the tweet text and the assigned label. From this perspective, this study proposes a hybrid sentiment analysis approach where the lexicon-based methods are used with deep learning models to improve sentiment accuracy. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://www.researchgate.net/publication/363037524_Sentiment_analysis_on_Twitter_data_integrating_TextBlob_and_deep_learning_models_The_case_of_US_airline_industry
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_dataset: ''
-# url_poster: ''
+# url_dataset: '#'
+# url_poster: '#'
 # url_project: ''
 # url_slides: ''
-# url_source: ''
-# url_video: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #   focal_point: ""
 #   preview_only: false
 
@@ -60,7 +55,8 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -71,10 +67,6 @@ projects: []
 ---
 
 <!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 

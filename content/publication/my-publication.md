@@ -1,16 +1,17 @@
 ---
-title: 'Role of Artificial Intelligence in Online Education: A Systematic Mapping Study'
+title: 'The state of accessibility in blackboard: Survey and user reviews case study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+# and it will be replaced with their full name and linked to their profile.Wajdi Aljedaani, Mohammed Alkahtani, Stephanie Ludi, Mohamed Wiem Mkaouer, Marcelo M Eler, Marouane Kessentini, Ali Ouni
 authors:
-  - R Shafique
-  - W Aljedaani
-  - F Rustam
-  - E Lee
-  - A Mehmood
-  - GS Choi
+  - Wajdi Aljedaani
+  - Mohammed Alkahtani
+  - Stephanie Ludi
+  - Mohamed Wiem Mkaouer
+  - Marcelo M Eler
+  - Marouane Kessentini
+  - Ali Ouni
 
 
 
@@ -23,7 +24,7 @@ date: '2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: '2023-04-30T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -50,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''

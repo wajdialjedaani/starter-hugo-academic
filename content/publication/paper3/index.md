@@ -1,17 +1,13 @@
 ---
-title: "The state of accessibility in blackboard: Survey and user reviews case study"
+title: "Teachers Perspectives on Transition to Online Teaching Deaf and Hard-of-Hearing Students during the COVID-19 Pandemic: A Case Study"
 authors:
   - Wajdi Aljedaani
-  - Mohammed Alkahtani
-  - Stephanie Ludi
+  - Mona Aljedaani
   - Mohamed Wiem Mkaouer
-  - Marcelo M Eler
-  - Marouane Kessentini
-  - Ali Ouni
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-date: "2023-09-01T00:00:00Z"
+  - Stephanie Ludi
+  
+  
+date: "2023-02-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,37 +17,37 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
-abstract: Nowadays, mobile applications (or apps) have become vital in our daily life, particularly within education. Many institutions increasingly rely on mobile apps to provide access to all their students. However, many education mobile apps remain inaccessible to users with disabilities who need to utilize accessibility features like talkback or screen reader features. Accessibility features have to be considered in mobile apps to foster equity and inclusion in the educational environment allowing to use of such apps without limitations. Gaps in the accessibility to educational systems persist.
+abstract: Education has faced various challenges due to the COVID- 19 pandemic. These challenges were even more dramatic for deaf and hard-of-hearing students as they transitioned to the online setting. This paper aims to explore the teachers’ perspectives on transitioning to educating computer science deaf students at a technical college in the Kingdom of Saudi Arabia (KSA). Therefore, the paper presents the results of 10 surveys and 5 interviews with faculty to identify the main obstacles that teachers have faced during the transition. This study outcomes reveal several challenges related to poor accessibility of learning tools, issues with the online availability of materials, no updates on the teaching pedagogy to accommodate the new settings and communication problems between teachers and students. Our study outlines important takeaways to provide deaf and hard-of-hearing students with a better learning experience.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3578527.3578531
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_dataset: ''
-# url_poster: ''
+# url_dataset: '#'
+# url_poster: '#'
 # url_project: ''
 # url_slides: ''
-# url_source: ''
-# url_video: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #   focal_point: ""
 #   preview_only: false
 
@@ -60,7 +56,8 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -71,10 +68,6 @@ projects: []
 ---
 
 <!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
