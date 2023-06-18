@@ -1,5 +1,7 @@
 ---
-title: ICS 496 Capstone Project
+title: CSCE 4901 - Software Development Capstone I
+
+
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,11 +14,9 @@ address:
   postcode: '94305'
   country: United States
 
-summary: This course provides final year undergraduate students an opportunity to propose, plan, execute, and present a software development project.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: First of a two-course sequence in which students develop a complex Software System starting from customer requirements and progressing through the entire analysis, design, implementation, testing, and delivery lifecycle. Students work in teams to develop a project plan, complete the project's technical components, prepare various deliverable documents, and finally deliver the finished product to the customer. The first course will focus on the analysis and design of the system. Prerequisite(s) CSCE 3444 and TECM 2700, each with a grade of C or better.
 
-
-
+abstract: First of a two-course sequence in which students develop a complex Software System starting from customer requirements and progressing through the entire analysis, design, implementation, testing, and delivery lifecycle. Students work in teams to develop a project plan, complete the project's technical components, prepare various deliverable documents, and finally deliver the finished product to the customer. The first course will focus on the analysis and design of the system. Prerequisite(s) CSCE 3444 and TECM 2700, each with a grade of C or better.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,13 +25,13 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 # all_day: false
 
 # # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-08-01T00:00:00Z'
 
-# authors: []
-# tags: []
+authors: []
+tags: []
 
-# # Is this a featured talk? (true/false)
-# featured: false
+# Is this a featured talk? (true/false)
+featured: false
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -62,15 +62,23 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 # projects:
 #   - example
 ---
-<!-- 
-{{% callout note %}}
+
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-<!-- Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Course Description
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
+First of a two-course sequence in which students develop a complex Software System starting from customer requirements and progressing through the entire analysis, design, implementation, testing, and delivery lifecycle. Students work in teams to develop a project plan, complete the project's technical components, prepare various deliverable documents, and finally deliver the finished product to the customer. The first course will focus on the analysis and design of the system. Prerequisite(s): CSCE 3444 and TECM 2700, each with a grade of C or better.
+
+<!-- Other Details
+
+Student Level
+
+Undergraduate (final year) -->
+
+Instructed Semesters
+
+2022 Fall
+

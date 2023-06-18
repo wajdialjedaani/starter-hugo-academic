@@ -1,14 +1,15 @@
 ---
-title: "Electroencephalogram Signals for Detecting Confused Students in Online Education Platforms with Probability-Based Features"
+title: "If online learning works for you, what about deaf students? Emerging challenges of online learning for deaf and hearing-impaired students during COVID-19: a literature review"
 authors:
-
-  - Obianuju Okafor
   - Wajdi Aljedaani
+  - Rrezarta Krasniqi
+  - Sanaa Aljedaani
+  - Mohamed Wiem Mkaouer
   - Stephanie Ludi
+  - Khaled Al-Raddah
   
   
-  
-date: "2022-12-17T00:00:00Z"
+date: "2022-09-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +25,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Online education has emerged as an important educational medium during the COVID-19 pandemic. Despite the advantages of online education, it lacks face-to-face settings, which makes it very difficult to analyze the students’ level of interaction, understanding, and confusion. This study makes use of electroencephalogram (EEG) data for student confusion detection for the massive open online course (MOOC) platform. Existing approaches for confusion detection predominantly focus on model optimization and feature engineering is not very well studied. This study proposes a novel engineering approach that uses probability-based features (PBF) for increasing the efficacy of machine learning models. The PBF approach utilizes the probabilistic output from the random forest (RF) and gradient-boosting machine (GBM) as a feature vector to train machine learning models. Extensive experiments are performed by using the original features and PBF approach through several machine learning models with EEG data. Experimental results suggest that by using the PBF approach on EEG data, a 100% accuracy can be obtained for detecting confused students. K-fold cross-validation and performance comparison with existing approaches further corroborates the results.
+abstract: With the coronavirus (COVID-19) outbreak, educational systems worldwide were abruptly affected and hampered, causing nearly total suspension of all in-person activities in schools, colleges, and universities. Government officials prohibited the physical gatherings in educational institutions to reduce the spread of the virus. Therefore, educational institutions have aggressively shifted to alternative learning methods and strategies such as online-based platforms—to seemingly avoid the disruption of education. However, the switch from the face-to-face setting to an entirely online setting introduced a series of challenges, especially for the deaf or hard-of-hearing students. Various recent studies have revealed the underlying infrastructure used by academic institutions may not be suitable for students with hearing impairments.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +37,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.mdpi.com/2079-9292/11/18/2855/pdf
+url_pdf: https://link.springer.com/article/10.1007/s10209-022-00897-5
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'

@@ -1,14 +1,21 @@
 ---
-title: "Electroencephalogram Signals for Detecting Confused Students in Online Education Platforms with Probability-Based Features"
+title: "Covid-19 vaccination-related sentiments analysis: a case study using worldwide twitter dataset"
 authors:
-
-  - Obianuju Okafor
+  - Aijaz Ahmad Reshi
+  - Furqan Rustam
   - Wajdi Aljedaani
-  - Stephanie Ludi
+  - Shabana Shafi
+  - Abdulaziz Alhossan
+  - Ziyad Alrabiah
+  - Ajaz Ahmad
+  - Hessa Alsuwailem
+  - Thamer A Almangour
+  - Musaad A Alshammari
+  - Ernesto Lee
+  - Imran Ashraf
   
   
-  
-date: "2022-12-17T00:00:00Z"
+date: "2022-09-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +31,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Online education has emerged as an important educational medium during the COVID-19 pandemic. Despite the advantages of online education, it lacks face-to-face settings, which makes it very difficult to analyze the students’ level of interaction, understanding, and confusion. This study makes use of electroencephalogram (EEG) data for student confusion detection for the massive open online course (MOOC) platform. Existing approaches for confusion detection predominantly focus on model optimization and feature engineering is not very well studied. This study proposes a novel engineering approach that uses probability-based features (PBF) for increasing the efficacy of machine learning models. The PBF approach utilizes the probabilistic output from the random forest (RF) and gradient-boosting machine (GBM) as a feature vector to train machine learning models. Extensive experiments are performed by using the original features and PBF approach through several machine learning models with EEG data. Experimental results suggest that by using the PBF approach on EEG data, a 100% accuracy can be obtained for detecting confused students. K-fold cross-validation and performance comparison with existing approaches further corroborates the results.
+abstract: COVID-19 pandemic has caused a global health crisis, resulting in endless efforts to reduce infections, fatalities, and therapies to mitigate its after-effects. Currently, large and fast-paced vaccination campaigns are in the process to reduce COVID-19 infection and fatality risks. Despite recommendations from governments and medical experts, people show conceptions and perceptions regarding vaccination risks and share their views on social media platforms. Such opinions can be analyzed to determine social trends and devise policies to increase vaccination acceptance. In this regard, this study proposes a methodology for analyzing the global perceptions and perspectives towards COVID-19 vaccination using a worldwide Twitter dataset. The study relies on two techniques to analyze the sentiments natural language processing and machine learning. To evaluate the performance of the different lexicon-based methods, different machine and deep learning models are studied. In addition, for sentiment classification, the proposed ensemble model named long short-term memory-gated recurrent neural network (LSTM-GRNN) is a combination of LSTM, gated recurrent unit, and recurrent neural networks. Results suggest that the TextBlob shows better results as compared to VADER and AFINN. The proposed LSTM-GRNN shows superior performance with a 95% accuracy and outperforms both machine and deep learning models. Performance analysis with state-of-the-art models proves the significance of the LSTM-GRNN for sentiment analysis. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +43,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.mdpi.com/2079-9292/11/18/2855/pdf
+url_pdf: https://www.mdpi.com/2227-9032/10/3/411/pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'

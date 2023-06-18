@@ -1,14 +1,15 @@
 ---
-title: "Electroencephalogram Signals for Detecting Confused Students in Online Education Platforms with Probability-Based Features"
+title: "Blood cancer prediction using leukemia microarray gene data and hybrid logistic vector trees model"
 authors:
-
-  - Obianuju Okafor
+  - Vaibhav Rupapara
+  - Furqan Rustam
   - Wajdi Aljedaani
-  - Stephanie Ludi
+  - Hina Fatima Shahzad
+  - Ernesto Lee
+  - Imran Ashraf
   
   
-  
-date: "2022-12-17T00:00:00Z"
+date: "2022-09-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +25,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Online education has emerged as an important educational medium during the COVID-19 pandemic. Despite the advantages of online education, it lacks face-to-face settings, which makes it very difficult to analyze the students’ level of interaction, understanding, and confusion. This study makes use of electroencephalogram (EEG) data for student confusion detection for the massive open online course (MOOC) platform. Existing approaches for confusion detection predominantly focus on model optimization and feature engineering is not very well studied. This study proposes a novel engineering approach that uses probability-based features (PBF) for increasing the efficacy of machine learning models. The PBF approach utilizes the probabilistic output from the random forest (RF) and gradient-boosting machine (GBM) as a feature vector to train machine learning models. Extensive experiments are performed by using the original features and PBF approach through several machine learning models with EEG data. Experimental results suggest that by using the PBF approach on EEG data, a 100% accuracy can be obtained for detecting confused students. K-fold cross-validation and performance comparison with existing approaches further corroborates the results.
+abstract: Blood cancer has been a growing concern during the last decade and requires early diagnosis to start proper treatment. The diagnosis process is costly and time-consuming involving medical experts and several tests. Thus, an automatic diagnosis system for its accurate prediction is of significant importance. Diagnosis of blood cancer using leukemia microarray gene data and machine learning approach has become an important medical research today. Despite research efforts, desired accuracy and efficiency necessitate further enhancements. This study proposes an approach for blood cancer disease prediction using the supervised machine learning approach. For the current study, the leukemia microarray gene dataset containing 22,283 genes, is used. ADASYN resampling and Chi-squared (Chi2) features selection techniques are used to resolve imbalanced and high-dimensional dataset problems. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +37,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.mdpi.com/2079-9292/11/18/2855/pdf
+url_pdf: https://www.nature.com/articles/s41598-022-04835-6
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'

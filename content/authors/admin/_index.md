@@ -14,34 +14,41 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: Software Engineering Researcher 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of North Texas
     url: https://www.unt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
+  - Human Computer Interaction
+  - Mining Software Repository
+  - Software Maintenance & Evolution
+  - Natural Language Processing
+  - Machine Learning
+  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: University of North Texas
-      year: 2022
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2019
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2016
+    - course: Ph.D. in Computer science and Engineering
+      institution: University of North Texas, Texas, USA
+      year: 
+    - course: M.Sc. in Software Engineering
+      institution: Rochester Institute of Technology, New York, USA
+      year: 
+    - course: Bachelor of Software Engineering
+      institution: Technological University of the Shannon, Athlone, Ireland
+      year: 
+
+    - course: Bachelor of Computer Engineering
+      institution: Technological University of the Shannon, Athlone, Ireland
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +87,7 @@ email: ''
 highlight_name: true
 ---
 
-Wajdi Aljedaani is a professor of Software Engineering at the University of North Texas Lab. 
+Wajdi Aljedaani is a PhD student and Teaching Follow in the Computer science and Engineering Department at the University of North Texas. Anthony holds a Master’s in Software Engineering from Rochester Institute of Technology, a Bachelor’s in Software Engineering from Technological University of the Shannon, and Bachelor’s in Computer Engineering from Technological University of the Shannon from Ireland. As a member of the Software Maintenance and Intelligent Evolution (SMILE) Lab, Wajdi’s research is around software accessibility, and mining repository. More specifically, Wajdi studies identifier names in the source code by investigating how and why identifier names change (or evolve) in the source code. Wajdi’s research aims to improve developer productivity by constructing a linguistic model to assist developers in identifying poor-quality identifier names and recommending appropriate replacements. Additionally, Wajdi also possesses hands-on experience in the software development industry, working on software projects for clients in multiple industries. Wajdi’s industry experience includes consulting, designing, implementation, project management, and sales.
+
+ 
 {style="text-align: justify;"}

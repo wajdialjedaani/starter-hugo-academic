@@ -70,27 +70,75 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Teaching Fellow 
+          company: Department of Computer Science and Engineering
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: 
+          location: University of North Texas, Denton, TX, USA
+          date_start: '2021-05-01'
           date_end: ''
           description: |2-
               Responsibilities include:
+              
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Supported the teaching objectives of the department by delivering teaching through allocated lectures, tutorials, and other forms of undergraduate and postgraduate teaching.
+              * Set and marked coursework and exams, providing constructive feedback to students.
+              * Developed where appropriate revisions to existing modules or courses in terms of design, content, structure, forms of delivery, and method of assessment.
+              * Developed teaching materials, methods, and approaches with guidance. Obtain and analyze feedback on own teaching design and delivery to facilitate this.
+              * Contributed to developing new teaching approaches and course proposals and designing curricula that are academically excellent, coherent, and intellectually challenging.
+              * Ensured that course design and delivery comply with the quality standards and regulations of the University and department.
+              * Provided – mentoring - supervision to students, gave advice on study skills, and helped with learning problems. To identify the learning needs of students and define learning objectives.
+              * Supervised student projects, field trips, and, where appropriate, placements.
+        - title: Teaching Assistant
+          company: Department of Computer Science and Engineering
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+          company_logo: 
+          location: University of North Texas, Denton, TX, USA
+          date_start: '2021-01-01'
+          date_end: '2021-05-31'
+          description: |2-
+              Responsibilities include:
+              * Assisted faculty with such tasks as lectures, data entry, exams, tutoring, and laboratory research, at times being responsible for an entire undergraduate course.
+              * Assisted in writing supplementary lecture notes, answer keys, and visual aids.
+              * Assure the proper setup and cleaning of labs and enforce laboratory rules to maintain a safe and educational environment.
+              * Developed, wrote, and proctored examinations and then recorded and posted grades outside the class location and online.
+              * Assisted students with course material during office hours and answered emails from students to ensure proper understanding of the course material.
+              * Served as the administrator for the course discussion thread online and updated the online course page with current due dates, assignments, and class hours to make sure everyone had access to updated information.
+              * Acquired all materials needed for course instruction, including textbooks and various supplies, to ensure instruction can proceed fully.
+        - title: Lecturer–Software Engineering 
+          company: Al-Kharj College of Technology
+          company_url: ''
+          company_logo: 
+          location: Al-Kharj, Saudi Arabia
+          date_start: '2017-10-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+              * Designed and deliver teaching material across a range of modules or within a subject area using appropriate teaching, learning support, and assessment methods.
+              * Contributed to the planning, design, and development of objectives and materials.
+              * Identified areas where the current provision needs revision or improvement.
+              * Supervised student projects, field trips, and, where appropriate, placements.
+              * Set, marked, and assessed work and examinations and provide feedback to students.
+              * Undertook original research in Software Engineering, Computer Science, or related disciplines and prepared material for publication.
+              * Developed research objectives, projects, and proposals and conducted individual or collaborative research projects.
+        - title: Research Assistant–Software Engineering  
+          company: Rochester Institute of Technology
+          company_url: ''
+          company_logo: 
+          location: Rochester, NY, USA
+          date_start: '2017-10-01'
+          date_end: '2020-12-31'
+          description: |2-
+              Responsibilities include:
+              * Collected research and analyzed data through complex techniques and procedures, library research, structured interviews, or other project-specific methodology.
+              * Conducted literature searches and statistical and other quantitative analyses using databases and statistical tools for projects encompassing one or more of the following topics: Software Engineering, Mining Software Repositories, Empirical Software Engineering, and Software Architecture.
+              * Wrote and edited materials for publication and presentation. Also, tracks organizes, and reports on the status of research activities.
+
+              * Planned and modified research techniques, procedures, tests, equipment, or software management.
+              * Assisted in designing and implementing research studies; performed independent research, conducted fieldwork, developed liaisons with community groups, and provided prevention education.
+
+
+       
     design:
       columns: '2'
   - block: accomplishments
@@ -107,30 +155,56 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-01-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: University of North Texas, Denton, TX, USA
+          organization_url: ''
+          title: Teaching Assistantship Scholarship ($36,400/yr)
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: University of North Texas, Denton, TX, USA
+          organization_url: ''
+          title: Teaching Assistantship Scholarship ($36,400/yr)
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2015-01-01'
+          description: ''
+          organization: Saudi Ministry of Education, Riyadh, Saudi Arabia
+          organization_url: ''
+          title: Full Scholarship for master's degree in software engineering
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2014-10-01'
+          description: ''
+          organization: Ireland
+          organization_url: ''
+          title: Full Scholarship for master's degree in software engineering
+          url: ''
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2013-10-01'
+          description: ''
+          organization: Sponsored by the AIT Software Research Institute
+          organization_url: ''
+          title: Award the student of the Year
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2013-10-01'
+          description: ''
+          organization: Sponsored by Saudi Arabian Cultural Bureau Ireland
+          organization_url: ''
+          title: Award the Excellent student
+          url: ''
+        
     design:
       columns: '2'
   # - block: collection

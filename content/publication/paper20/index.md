@@ -1,14 +1,15 @@
 ---
-title: "Electroencephalogram Signals for Detecting Confused Students in Online Education Platforms with Probability-Based Features"
+title: "Racism detection by analyzing differential opinions through sentiment analysis of tweets using stacked ensemble gcr-nn model"
 authors:
-
-  - Obianuju Okafor
+  - Ernesto Lee
+  - Furqan Rustam
+  - Patrick Bernard Washington
+  - Fatima El Barakaz
   - Wajdi Aljedaani
-  - Stephanie Ludi
+  - Imran Ashraf
   
   
-  
-date: "2022-12-17T00:00:00Z"
+date: "2022-01-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +25,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Online education has emerged as an important educational medium during the COVID-19 pandemic. Despite the advantages of online education, it lacks face-to-face settings, which makes it very difficult to analyze the students’ level of interaction, understanding, and confusion. This study makes use of electroencephalogram (EEG) data for student confusion detection for the massive open online course (MOOC) platform. Existing approaches for confusion detection predominantly focus on model optimization and feature engineering is not very well studied. This study proposes a novel engineering approach that uses probability-based features (PBF) for increasing the efficacy of machine learning models. The PBF approach utilizes the probabilistic output from the random forest (RF) and gradient-boosting machine (GBM) as a feature vector to train machine learning models. Extensive experiments are performed by using the original features and PBF approach through several machine learning models with EEG data. Experimental results suggest that by using the PBF approach on EEG data, a 100% accuracy can be obtained for detecting confused students. K-fold cross-validation and performance comparison with existing approaches further corroborates the results.
+abstract: With social media’s dominating role in the socio-political landscape, several existing and new forms of racism took place on social media. Racism has emerged on social media in different forms, both hidden and open, hidden with the use of memes and open as the racist remarks using fake identities to incite hatred, violence, and social instability. Although often associated with ethnicity, racism is now thriving based on color, origin, language, cultures, and most importantly religion. Social media opinions and remarks provocating racial differences have been regarded as a serious threat to social, political, and cultural stability and have threatened the peace of different countries. Consequently, social media being the leading source of racist opinions dissemination should be monitored and racism remarks should be detected and blocked timely. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +37,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.mdpi.com/2079-9292/11/18/2855/pdf
+url_pdf: https://ieeexplore.ieee.org/iel7/6287639/9668973/09684891.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
