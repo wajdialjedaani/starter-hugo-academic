@@ -37,7 +37,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 links:
 - name: DOI
   url: https://dl.acm.org/doi/abs/10.1145/3587281.3587291
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://dl.acm.org/doi/10.1145/3587281.3587291
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'

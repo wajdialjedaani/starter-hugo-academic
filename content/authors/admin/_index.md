@@ -39,19 +39,19 @@ education:
   courses:
     - course: Ph.D. in Computer science and Engineering
       institution: University of North Texas, Texas, USA
-      year: abc
-      advisor: Advisor's Name
-         
+      year: 'Advisor: Stephanie Ludi, PhD' 
+     
     - course: M.Sc. in Software Engineering
       institution: Rochester Institute of Technology, New York, USA
-      year: 
+      year: 'Advisor: Meiyappan Nagappan, PhD' 
+
     - course: Bachelor of Software Engineering
       institution: Technological University of the Shannon, Athlone, Ireland
-      year: 
+      year: 'Advisor: Michael Thornton, Lecturer'
 
     - course: Bachelor of Computer Engineering
       institution: Technological University of the Shannon, Athlone, Ireland
-      year: 
+      year: 'Advisor: Kevin McDermott, Lecturer'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

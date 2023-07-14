@@ -16,9 +16,9 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Events  
-    url: '#talks'
-    weight: 40
+  # - name: Events  
+  #   url: '#talks'
+  #   weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
