@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -32,8 +32,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 # featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: DOI
+  url: https://link.springer.com/article/10.1007/s11042-022-12991-0
 url_pdf: https://www.researchgate.net/profile/Muhammad-Mushtaq-20/publication/360377971_Spam_SMS_filtering_based_on_text_features_and_supervised_machine_learning_techniques/links/62762af0973bbb29cc68f226/Spam-SMS-filtering-based-on-text-features-and-supervised-machine-learning-techniques.pdf?_sg%5B0%5D=started_experiment_milestone&_sg%5B1%5D=started_experiment_milestone&origin=journalDetail
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'

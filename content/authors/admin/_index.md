@@ -27,10 +27,11 @@ organizations:
 interests:
 
   - Human Computer Interaction
-  - Mining Software Repository
-  - Software Maintenance & Evolution
   - Natural Language Processing
   - Machine Learning
+  - Mining Software Repository
+  - Software Maintenance & Evolution
+  
   
 
 # Education to show in About widget
@@ -38,7 +39,9 @@ education:
   courses:
     - course: Ph.D. in Computer science and Engineering
       institution: University of North Texas, Texas, USA
-      year: 
+      year: abc
+      advisor: Advisor's Name
+         
     - course: M.Sc. in Software Engineering
       institution: Rochester Institute of Technology, New York, USA
       year: 
@@ -82,6 +85,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
+
+user_groups:
+  - Researchers
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
