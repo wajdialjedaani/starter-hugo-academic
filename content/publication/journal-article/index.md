@@ -1,7 +1,7 @@
 ---
 title: "The state of accessibility in blackboard: Survey and user reviews case study"
 authors:
-  - Wajdi Aljedaani
+  - admin
   - Mohammed Alkahtani
   - Stephanie Ludi
   - Mohamed Wiem Mkaouer

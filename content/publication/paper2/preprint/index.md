@@ -1,7 +1,7 @@
 ---
 title: "Do the Test Smells Assertion Roulette and Eager Test Impact Students' Troubleshooting and Debugging Capabilities?"
 authors:
-  - Wajdi Aljedaani
+  - admin
   - Mohamed Wiem Mkaouer
   - Anthony Peruma
   - Stephanie Ludi

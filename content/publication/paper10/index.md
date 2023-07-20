@@ -3,7 +3,7 @@ title: "Electroencephalogram Signals for Detecting Confused Students in Online E
 authors:
 
   - Obianuju Okafor
-  - Wajdi Aljedaani
+  - admin
   - Stephanie Ludi
   
   

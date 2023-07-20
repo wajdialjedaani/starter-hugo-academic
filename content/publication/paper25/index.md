@@ -6,7 +6,7 @@ authors:
   - John Wu
   - Yanyan Li
   - Xin Ye
-  - Wajdi Aljedaani
+  - admin
   - Mohamed Wiem Mkaouer
   
   
@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Soft Computing"
 publication_short: ""
 
 abstract: Bug localization is the automated process of finding the possible faulty files in a software project. Bug localization allows developers to concentrate on vital files. Information retrieval (IR)-based approaches have been proposed to assist automatically identify software defects by using bug report information. However, some bug reports that are not semantically related to the relevant code are not helpful to IR-based systems. Running an IR-based reporting system can lead to false-positive results. In this paper, we propose a classification model for classifying a bug report as either uninformative or informative. Our approach helps to lower false positives and increase ranking performances by filtering uninformative information before running an IR-based bug location system. The model is based on implicit features learned from bug reports that use neural networks and explicit features defined manually. 

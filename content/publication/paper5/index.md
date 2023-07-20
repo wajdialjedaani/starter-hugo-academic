@@ -3,7 +3,7 @@ title: "Dynamic Software Containers Workload Balancing Via Many-Objective Search
 authors:
   - Anwar Ghammam
   - Thiago Ferreira
-  - Wajdi Aljedaani
+  - admin
   - Marouane Kessentini
   - Ali Husain
   

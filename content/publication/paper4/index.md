@@ -6,7 +6,7 @@ authors:
   - Alves Oliveira
   - Paulo Sérgio Henrique Dos Santos
   - Wilson Estécio Marcílio Júnior
-  - Wajdi M Aljedaani
+  - admin
   - Danilo Medeiros Eler
   - Marcelo Medeiros Eler
   

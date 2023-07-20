@@ -2,7 +2,7 @@
 title: "Detection of fake job postings by utilizing machine learning and natural language processing approaches"
 authors:
   - Aashir Amaar
-  - Wajdi Aljedaani
+  - admin
   - Furqan Rustam
   - Saleem Ullah
   - Vaibhav Rupapara
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Neural Processing Letters"
 publication_short: ""
 
 abstract: The modern era is about everything that can be handled virtually in human life, such as online banking, education, security, job, etc. This increase in technology use also makes it easy for a scammer to loot people and make money quickly. A popular scam nowadays is fake job advertisements. People apply for these fake job vacancies, pay application fees to scammers, send their data to the scammers, and end up with a scam and waste their money. For this purpose, we proposed a methodology that uses natural language processing and supervised machine learning techniques to detect fraudulent job ads from online recruitment portals. We used two feature extraction techniques to extract the features from data Term Frequency-Inverse Document Frequency (TF-IDF) and Bag-of-Words (BoW).

@@ -1,7 +1,7 @@
 ---
 title: "Teachers Perspectives on Transition to Online Teaching Deaf and Hard-of-Hearing Students during the COVID-19 Pandemic: A Case Study"
 authors:
-  - Wajdi Aljedaani
+  - admin
   - Mona Aljedaani
   - Mohamed Wiem Mkaouer
   - Stephanie Ludi

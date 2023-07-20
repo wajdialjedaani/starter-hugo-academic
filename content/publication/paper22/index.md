@@ -4,7 +4,7 @@ authors:
 
   - Ernesto Lee
   - Furqan Rustam
-  - Wajdi Aljedaani
+  - admin
   - Abid Ishaq
   - Vaibhav Rupapara
   - Imran Ashraf
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Advances in Astronomy"
 publication_short: ""
 
 abstract: Pulsar stars, usually neutron stars, are spherical and compact objects containing a large quantity of mass. Each pulsar star possesses a magnetic field and emits a slightly different pattern of electromagnetic radiation which is used to identify the potential candidates for a real pulsar star. Pulsar stars are considered an important cosmic phenomenon, and scientists use them to study nuclear physics, gravitational waves, and collisions between black holes. Defining the process of automatic detection of pulsar stars can accelerate the study of pulsar stars by scientists. This study contrives an accurate and efficient approach for true pulsar detection using supervised machine learning. For experiments, the high time-resolution (HTRU2) dataset is used in this study. To resolve the data imbalance problem and overcome model overfitting, a hybrid resampling approach is presented in this study. Experiments are performed with imbalanced and balanced datasets using well-known machine learning algorithms. Results demonstrate that the proposed hybrid resampling approach proves highly influential to avoid model overfitting and increase the prediction accuracy. With the proposed hybrid resampling approach, the extra tree classifier achieves a 0.993 accuracy score for true pulsar star prediction. 

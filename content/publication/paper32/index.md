@@ -2,7 +2,7 @@
 title: "LDA categorization of security bug reports in chromium projects"
 authors:
 
-  - Wajdi Aljedaani
+  - admin
   - Yasir Javed
   - Mamdouh Alenezi
   
@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 2020 European symposium on software engineering"
 publication_short: ""
 
 abstract: Security bug reports (SBR) depict potential security vulnerabilities in software systems. Bug tracking systems (BTS) usually contain huge numbers of bug reports including security-related ones. Malicious attackers could exploit these SBRs. Henceforth, it is very critical to pinpoint SBRs swiftly and correctly. In this work, we studied the security bug reports of the Chromium project. We looked into three main aspects of these bug reports, namely frequencies of reporting them, how quickly they get fixed and is LDA effective in grouping these reports to known vulnerabilities types. We report our findings in these aspects.

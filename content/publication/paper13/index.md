@@ -1,7 +1,7 @@
 ---
 title: "If online learning works for you, what about deaf students? Emerging challenges of online learning for deaf and hearing-impaired students during COVID-19: a literature review"
 authors:
-  - Wajdi Aljedaani
+  - admin
   - Rrezarta Krasniqi
   - Sanaa Aljedaani
   - Mohamed Wiem Mkaouer

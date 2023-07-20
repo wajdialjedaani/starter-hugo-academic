@@ -5,7 +5,7 @@ authors:
   - Furqan Rustam
   - Patrick Bernard Washington
   - Fatima El Barakaz
-  - Wajdi Aljedaani
+  - admin
   - Imran Ashraf
   
   
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "IEEE Access"
 publication_short: ""
 
 abstract: With social media’s dominating role in the socio-political landscape, several existing and new forms of racism took place on social media. Racism has emerged on social media in different forms, both hidden and open, hidden with the use of memes and open as the racist remarks using fake identities to incite hatred, violence, and social instability. Although often associated with ethnicity, racism is now thriving based on color, origin, language, cultures, and most importantly religion. Social media opinions and remarks provocating racial differences have been regarded as a serious threat to social, political, and cultural stability and have threatened the peace of different countries. Consequently, social media being the leading source of racist opinions dissemination should be monitored and racism remarks should be detected and blocked timely. 

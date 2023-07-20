@@ -4,7 +4,7 @@ authors:
 
   - Ernesto Lee
   - Furqan Rustam
-  - Wajdi Aljedaani
+  - admin
   - Abid Ishaq
   - Vaibhav Rupapara
   - Imran Ashraf

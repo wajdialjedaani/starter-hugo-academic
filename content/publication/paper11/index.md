@@ -2,7 +2,7 @@
 title: "Comparative Analysis of Accessibility Testing Tools and Their Limitations in RIAs"
 authors:
   - Obianuju Okafor
-  - Wajdi Aljedaani
+  - admin
   - Stephanie Ludi
  
   
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "International Conference on Human-Computer Interaction"
 publication_short: ""
 
 abstract: Accessibility is a required quality for websites today, and several tools exist to test for this quality. These tools are highly advantageous, but sadly they also have some limitations. A particular set of challenges they face is in the evaluation of Rich Internet Applications (RIAs). In this paper, we carry out an experiment to compare and analyze different accessibility testing tools as they evaluate 10 educational websites. We judged these tools based on their error detection, guideline coverage, speed, similarity to one another, and their relative performance when evaluating RIAs. The experiment findings revealed the strength and limitations of each tool. The results of this experiment also exposed that there are many guidelines and success criteria that accessibility testing tools are not able to cover, and that some evaluation tools are similar to each other in terms of the results they produce.

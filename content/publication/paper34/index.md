@@ -2,7 +2,7 @@
 title: "Open source systems bug reports: Meta-analysis"
 authors:
 
-  - Wajdi Aljedaani
+  - admin
   - Yasir Javed
   - Mamdouh Alenezi
   
@@ -21,7 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 2020 The 3rd International Conference on Big Data and Education
+"
 publication_short: ""
 
 abstract: Bug Tracking System (BTS) is a wealthy source of software development information. They contain many insights about the health status of the software project. Making sense of this information is a big challenge to software development communities. In this work, we perform an investigation on fixing time, components, and platforms related to five open source systems hosted by Bugzilla. The motive is to identify what are the most error-prone components and to allocate the right developer to fix the bug. The results are indicators for how data in BTS should be utilized for decision-making processes. The results reveal a strong relationship between bugs and committers, where it is seen that committer is usually related to fixing a single domain of bugs that also shows their expertise. 

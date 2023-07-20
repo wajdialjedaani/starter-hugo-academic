@@ -2,7 +2,7 @@
 title: "Empirical study of software test suite evolution"
 authors:
 
-  - Wajdi Aljedaani
+  - admin
   - Yasir Javed
   
   
@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "2020 6th Conference on Data Science and Machine Learning Applications (CDMA)"
 publication_short: ""
 
 abstract: In a variety of market environments, open-source software plays a major role these days. Open-source systems have expanded to the research area from only academic projects. There are more than thousands of successful and effective open source projects to be checked and their level of performance requires to be calculated. The reliability of software systems can be measured in several respects. Essentially, the ability to detect and locate flaws in test cases is measured. This research aims to identify a good technique for evaluating the efficacy of test cases in open source systems to identify defects. This research study focused on six OSS projects (Open Source Software) publicly available. This study tends to find a relationship between software code suites and test code suites in terms of software evolution. 

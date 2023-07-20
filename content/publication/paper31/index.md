@@ -4,7 +4,7 @@ authors:
 
   - Bader Alkhazi
   - Andrew DiStasi
-  - Wajdi Aljedaani
+  - admin
   - Hussein Alrubaye
   - Xin Ye
   - Mohamed Wiem Mkaouer
@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Applied Soft Computing"
 publication_short: ""
 
 abstract: Bug assignment is a burden for projects receiving many bug reports. To automate the process of assigning bug reports to the appropriate developers, several studies have relied on combining natural language processing and information retrieval techniques to extract two categories of features. One of these categories targets developers who have fixed similar bugs before, and the other determines developers working on source files similar to the description of the bug. Commit messages represent another rich source for profiling developer expertise as the language used in commit messages is closer to that used in bug reports.

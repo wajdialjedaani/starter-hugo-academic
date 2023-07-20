@@ -1,7 +1,7 @@
 ---
 title: "Test smell detection tools: A systematic mapping study"
 authors:
-  - Wajdi Aljedaani
+  - admin
   - Anthony Peruma
   - Ahmed Aljohani
   - Mazen Alotaibi
@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Evaluation and Assessment in Software Engineering"
 publication_short: ""
 
 abstract: Test smells are defined as sub-optimal design choices developers make when implementing test cases. Hence, similar to code smells, the research community has produced numerous test smell detection tools to investigate the impact of test smells on the quality and maintenance of test suites. However, little is known about the characteristics, type of smells, target language, and availability of these published tools. In this paper, we provide a detailed catalog of all known, peer-reviewed, test smell detection tools.We start with performing a comprehensive search of peer-reviewed scientific publications to construct a catalog of 22 tools. Then, we perform a comparative analysis to identify the smell types detected by each tool and other salient features that include programming language, testing framework support, detection strategy, and adoption, among others.

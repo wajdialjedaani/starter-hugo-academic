@@ -3,7 +3,7 @@ title: "Sentiment analysis on Twitter data integrating TextBlob and deep learnin
 authors:
   - Ahmad M Al-Shomar
   - Muhammad Al-Qurish
-  - Wajdi Aljedaani
+  - admin
   
   
 date: "2022-12-17T00:00:00Z"

@@ -2,7 +2,7 @@
 title: "A comparison of bugs across the ios and android platforms of two open source cross platform browser apps"
 authors:
 
-  - Wajdi Aljedaani
+  - admin
   - Meiyappan Nagappan
   - Bram Adams
   - Michael Godfrey
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "2019 IEEE/ACM 6th International Conference on Mobile Software Engineering and Systems (MOBILESoft)"
 publication_short: ""
 
 abstract: Mobile app developers want to maximize their revenue and hence want to reach as large an audience as possible. In order to do this, they need to build apps for multiple platforms - like Google's Android and Apple's iOS, and maintain them in parallel. Past research has examined properties of the issues addressed in either Android or iOS, but not to compare the work between both. Our main motivation has been to determine if there were differences in how issues manifest themselves in iOS and Android, when we control for the projects, by considering the same apps across multiple platforms. In this paper, we compare issues across two mobile platforms - iOS and Android - for two open source browsers - Mozilla Firefox and Google Chromium. 

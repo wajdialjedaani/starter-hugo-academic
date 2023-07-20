@@ -3,7 +3,7 @@ title: "Spam SMS filtering based on text features and supervised machine learnin
 authors:
   - Ahmad M Al-Shomar
   - Muhammad Al-Qurish
-  - Wajdi Aljedaani
+  - admin
   
   
 date: "2022-12-17T00:00:00Z"

@@ -1,7 +1,7 @@
 ---
 title: "On the identification of accessibility bug reports in open source systems"
 authors:
-  - Wajdi Aljedaani
+  - admin
   - Mohamed Wiem Mkaouer
   - Stephanie Ludi
   - Ali Ouni
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 19th international web for all conference"
 publication_short: ""
 
 abstract: Today, mobile devices provide support to disabled people to make their life easier due to their high accessibility and capability, e.g., finding accessible locations, picture and voice-based communication, customized user interfaces and vocabulary levels. These accessibility frameworks are directly integrated, as libraries, in various apps, providing them with accessibility functions. Just like any other software, these frameworks regularly encounter errors. These errors are reported by app developers in the form of bug reports. These bug reports related to accessibility faults need to be urgently fixed since their existence significantly hinders the usability of apps. In this context, the manual inspection of a large number of bug reports to identify accessibility-related ones is time-consuming and error-prone. 

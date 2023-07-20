@@ -2,7 +2,7 @@
 title: "Bug reports evolution in open source systems"
 authors:
 
-  - Wajdi Aljedaani
+  - admin
   - Yasir Javed
   
   
@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "5th International Symposium on Data Mining Applications"
 publication_short: ""
 
 abstract: Open Source Software communities usually utilize open bug reporting system to enable users to report and fix bugs. In addition, the lifetime of most open source system stays for long periods of time. In this work, we comprehensively examine the evolution of bug reports in four different open source systems from various languages. The selected project are analyzed since 2004 in order to find how many bugs are reported compared to their resolution. We report our results and some recommendations to the open source community.

@@ -7,7 +7,7 @@ authors:
   - Abdullah Al-Hashedi
   - Abdulqader Mohsen
   - Kamal Bechkoum
-  - Wajdi Aljedaani
+  - admin
   
   
 date: "2021-01-18T00:00:00Z"
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "2021 International Conference on Intelligent Technology, System and Service for Internet of Everything (ITSS-IoE)"
 publication_short: ""
 
 abstract: Small and medium-sized enterprises (SMEs) are significant contributors to countries' economic activities. SMEs need to use enterprise resource planning (ERP) systems to increase revenue and productivity. Due to the high licensing costs of these systems, open source ERP (OSERP) could be an alternative solution to this problem. This study investigates the factors affecting the intention to adopt the OSERP system by SMEs in Yemen using the Technology-Organization-Environment (TOE) Framework and The Diffusion of Innovation (DOI) Theory. Using a questionnaire, data were collected from a sample of 600 subjects. The model was validated empirically using Structural Equation Modeling (SEM). 

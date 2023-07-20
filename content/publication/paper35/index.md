@@ -4,7 +4,7 @@ authors:
 
   - Nasir Safdari
   - Hussein Alrubaye
-  - Wajdi Aljedaani
+  - admin
   - Bladimir Baez Baez
   - Andrew DiStasi
   - Mohamed Wiem Mkaouer
@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Big data: learning, analytics, and applications"
 publication_short: ""
 
 abstract: With the rise of autonomous systems, the automation of faults detection and localization becomes critical to their reliability. An automated strategy that can provide a ranked list of faulty modules or files with respect to how likely they contain the root cause of the problem would help in the automation bug localization. Learning from the history if previously located bugs in general, and extracting the dependencies between these bugs in particular, helps in building models to accurately localize any potentially detected bugs. In this study, we propose a novel fault localization solution based on a learning-to-rank strategy, using the history of previously localized bugs and their dependencies as features, to rank files in terms of their likelihood of being a root cause of a bug. The evaluation of our approach has shown its efficiency in localizing dependent bugs.

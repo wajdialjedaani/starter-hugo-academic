@@ -2,7 +2,7 @@
 title: "Thesis"
 authors:
   
-  - Wajdi Aljedaani
+  - admin
   
   
   

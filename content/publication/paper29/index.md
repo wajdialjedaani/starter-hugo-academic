@@ -3,7 +3,7 @@ title: "Recommending pull request reviewers based on code changes"
 authors:
   - Xin Ye
   - Yongjie Zheng
-  - Wajdi Aljedaani
+  - admin
   - Mohamed Wiem Mkaouer
   
   
@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Soft Computing"
 publication_short: ""
 
 abstract: Pull-based development supports collaborative distributed development. It enables developers to collaborate on projects hosted on GitHub. If a developer wants to collaborate on a project, he/she will fork the repository, make modifications on the forked repository and send a pull request to the development team to ask for a merge of the code changes to the official repository. When the development team receives a pull request, the team members will review the changes and make a decision on whether to accept the changes or not. However, efficiently finding suitable pull request reviewers is a challenge. In this paper, we propose a multi-instance-based deep neural network model to recommend reviewers for pull requests. Given a pull request, our model extracts three features, which pull request title, commit message, and code change. 

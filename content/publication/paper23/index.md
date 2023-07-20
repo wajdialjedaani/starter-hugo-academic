@@ -2,7 +2,7 @@
 title: "Learning sentiment analysis for accessibility user reviews"
 authors:
 
-  - Wajdi Aljedaani
+  - admin
   - Furqan Rustam
   - Stephanie Ludi
   - Ali Ouni
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "2021 36th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)"
 publication_short: ""
 
 abstract: Nowadays, people use different ways to express emotions and sentiments such as facial expressions, gestures, speech, and text. With the exponentially growing popularity of mobile applications (apps), accessibility apps have gained importance in recent years as it allows users with specific needs to use an app without many limitations. User reviews provide insightful information that helps for app evolution. Previously, work has been done on analyzing the accessibility in mobile applications using machine learning approaches. However, to the best of our knowledge, there is no work done using sentiment analysis approaches to understand better how users feel about accessibility in mobile apps. To address this gap, we propose a new approach on an accessibility reviews dataset, where we use two sentiment analyzers, i.e., TextBlob and VADER along with Term Frequency—Inverse Document Frequency.

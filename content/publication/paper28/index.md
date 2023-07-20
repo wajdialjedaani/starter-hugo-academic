@@ -3,7 +3,7 @@ title: "Finding the needle in a haystack: On the automatic identification of acc
 authors:
 
   - Eman Abdullah AlOmar
-  - Wajdi Aljedaani
+  - admin
   - Murtaza Tamjeed
   - Mohamed Wiem Mkaouer
   - Yasmine N El-Glaly
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 2021 CHI conference on human factors in computing systems"
 publication_short: ""
 
 abstract: In recent years, mobile accessibility has become an important trend with the goal of allowing all users the possibility of using any app without many limitations. User reviews include insights that are useful for app evolution. However, with the increase in the amount of received reviews, manually analyzing them is tedious and time-consuming, especially when searching for accessibility reviews. The goal of this paper is to support the automated identification of accessibility in user reviews, to help technology professionals in prioritizing their handling, and thus, creating more inclusive apps. Particularly, we design a model that takes as input accessibility user reviews, learns their keyword-based features, in order to make a binary decision, for a given review, on whether it is about accessibility or not. The model is evaluated using a total of 5,326 mobile app reviews. 

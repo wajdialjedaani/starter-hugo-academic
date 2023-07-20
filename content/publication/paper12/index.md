@@ -2,7 +2,7 @@
 title: "Role of Artificial Intelligence for Analysis of COVID-19 Vaccination-Related Tweets: Opportunities, Challenges, and Future Trends"
 authors:
   - Obianuju Okafor
-  - Wajdi Aljedaani
+  - admin
   - Stephanie Ludi
  
   

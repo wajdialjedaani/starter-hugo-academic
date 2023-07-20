@@ -3,7 +3,7 @@ title: "Blood cancer prediction using leukemia microarray gene data and hybrid l
 authors:
   - Vaibhav Rupapara
   - Furqan Rustam
-  - Wajdi Aljedaani
+  - admin
   - Hina Fatima Shahzad
   - Ernesto Lee
   - Imran Ashraf
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Scientific reports"
 publication_short: ""
 
 abstract: Blood cancer has been a growing concern during the last decade and requires early diagnosis to start proper treatment. The diagnosis process is costly and time-consuming involving medical experts and several tests. Thus, an automatic diagnosis system for its accurate prediction is of significant importance. Diagnosis of blood cancer using leukemia microarray gene data and machine learning approach has become an important medical research today. Despite research efforts, desired accuracy and efficiency necessitate further enhancements. This study proposes an approach for blood cancer disease prediction using the supervised machine learning approach. For the current study, the leukemia microarray gene dataset containing 22,283 genes, is used. ADASYN resampling and Chi-squared (Chi2) features selection techniques are used to resolve imbalanced and high-dimensional dataset problems. 

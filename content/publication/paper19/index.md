@@ -3,7 +3,7 @@ title: "Vector mosquito image classification using novel RIFS feature selection 
 authors:
   - Furqan Rustam
   - Aijaz Ahmad Reshi
-  - Wajdi Aljedaani
+  - admin
   - Abdulaziz Alhossan
   - Abid Ishaq
   - Shabana Shafi
@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Saudi Journal of Biological Sciences"
 publication_short: ""
 
 abstract: Every year about one million people die due to diseases transmitted by mosquitoes. The infection is transmitted to a person when an infected mosquito stings, injecting the saliva into the human body. The best possible way to prevent a mosquito-borne infection till date is to save the humans from exposure to mosquito bites. This study proposes a Machine Learning (ML) and Deep Learning based system to detect the presence of two critical disease spreading classes of mosquitoes such as the Aedes and Culex. The proposed system will effectively aid in epidemiology to design evidence-based policies and decisions by analyzing the risks and transmission. The study proposes an effective methodology for the classification of mosquitoes using ML and CNN models.  

@@ -1,7 +1,7 @@
 ---
 title: "Automatic classification of accessibility user reviews in android apps"
 authors:
-  - Wajdi Aljedaani
+  - admin
   - Mohamed Wiem Mkaouer
   - Stephanie Ludi
   - Yasir Javed
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "2022 7th international conference on data science and machine learning applications (CDMA)"
 publication_short: ""
 
 abstract: In recent years, mobile applications have gained popularity for providing information, digital services, and content to users including users with disabilities. However, recent studies have shown that even popular mobile apps are facing issues related to accessibility, which hinders their usability experience for people with disabilities. For discovering these issues in the new app releases, developers consider user reviews published on the official app stores. However, it is a challenging and time-consuming task to identify the type of accessibility-related reviews manually. Therefore, in this study, we have used super-vised learning techniques, namely, Extra Tree Classifier (ETC), Random Forest, Support Vector Classification, Decision Tree, K-Nearest Neighbors (KNN), and Logistic Regression for automated classification of 2,663 Android app reviews based on four types of accessibility guidelines, i.e., Principles, Audio.
