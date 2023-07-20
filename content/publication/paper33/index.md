@@ -27,8 +27,10 @@ abstract: In a variety of market environments, open-source software plays a majo
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Bug Report
+- Software Repository Mining
+- Unit Test
 # featured: false
 
 links:

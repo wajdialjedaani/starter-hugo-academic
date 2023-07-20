@@ -36,8 +36,12 @@ abstract: COVID-19 pandemic has caused a global health crisis, resulting in endl
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Mobile Applications
+- User Review
+- Accessibility
+- Android Applications
+- Machine Learning
 # featured: false
 
 links:

@@ -36,8 +36,10 @@ abstract: Every year about one million people die due to diseases transmitted by
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- Image Classification
 # featured: false
 
 links:

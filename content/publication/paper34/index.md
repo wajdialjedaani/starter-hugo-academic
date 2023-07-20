@@ -29,8 +29,9 @@ abstract: Bug Tracking System (BTS) is a wealthy source of software development 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Bug Report
+- Software Repository Mining
 # featured: false
 
 links:

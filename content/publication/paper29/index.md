@@ -29,8 +29,11 @@ abstract: Pull-based development supports collaborative distributed development.
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- Pull Request
+- Software Repository Mining
 # featured: false
 
 links:

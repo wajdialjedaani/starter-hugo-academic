@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Multimedia Tools and Applications"
 publication_short: ""
 
 abstract: The advancement in technology made a significant mark with time, which affects every field of life like medicine, music, office, traveling, and communication. Telephone lines are used as a communication medium in ancient times. Currently, wireless technology overrides telephone wire technology with much broader features. The advertisement agencies and spammers mostly use SMS as a medium of communication to convey their business brochures to the typical person. Due to this reason, more than 60% of spam SMS are received daily. These spam messages cause users’ anger and sometimes scam with innocent users, but it creates large profits for the spammer and advertisement companies. This study proposed an approach for the classification of spam and ham SMS using supervised machine learning techniques. 
@@ -27,8 +27,11 @@ abstract: The advancement in technology made a significant mark with time, which
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- Sentiment Analysis
+- Social Media
 # featured: false
 
 links:

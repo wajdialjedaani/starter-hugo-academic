@@ -31,8 +31,11 @@ abstract: With the rise of autonomous systems, the automation of faults detectio
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- Bug Report
+- Software Repository Mining
 # featured: false
 
 links:

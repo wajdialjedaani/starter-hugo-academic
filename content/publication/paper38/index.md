@@ -35,8 +35,11 @@ abstract: Test smells are defined as sub-optimal design choices developers make 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Test Smells
+- Unit Test
+- Systematic Mapping
+- Detection Tools
 # featured: false
 
 links:

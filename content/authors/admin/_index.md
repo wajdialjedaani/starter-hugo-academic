@@ -39,7 +39,8 @@ education:
   courses:
     - course: Ph.D. in Computer science and Engineering
       institution: University of North Texas, Texas, USA
-      year: 'Advisor: Stephanie Ludi, PhD' 
+      year: 'Advisor: Stephanie Ludi, PhD'
+    
      
     - course: M.Sc. in Software Engineering
       institution: Rochester Institute of Technology, New York, USA

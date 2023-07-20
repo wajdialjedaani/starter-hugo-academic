@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Knowledge-Based Systems"
 publication_short: ""
 
 abstract: Twitter being among the popular social media platforms, provide peoples’ opinions regarding specific ideas, products, services, etc. The large amounts of shared data as tweets can help extract users’ sentiment and provide valuable feedback to improve the quality of products and services alike. Similar to other service industries, the airline industry utilizes such feedback for determining customers’ satisfaction levels and improving the quality of experience where needed. This, of course, requires accurate sentiments from the user tweets. Existing sentiment analysis models suffer from low accuracy on account of the contradictions found in the tweet text and the assigned label. From this perspective, this study proposes a hybrid sentiment analysis approach where the lexicon-based methods are used with deep learning models to improve sentiment accuracy. 
@@ -27,8 +27,11 @@ abstract: Twitter being among the popular social media platforms, provide people
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- Sentiment Analysis
+- Social Media
 # featured: false
 
 links:

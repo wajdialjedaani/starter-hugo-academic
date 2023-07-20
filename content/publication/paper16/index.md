@@ -31,8 +31,13 @@ abstract: Today, mobile devices provide support to disabled people to make their
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Bug Report
+- Accessibility
+- Machine Learning
+- Software Repository Mining
+- Mobile Application
+- Web Application Analysis
 # featured: false
 
 links:

@@ -28,8 +28,11 @@ abstract: To ensure the quality of a software system, developers perform an acti
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Test Smells
+- Unit Test
+- Software Quality
+- Software Maintenance and Evolution
 # featured: false
 
 links:

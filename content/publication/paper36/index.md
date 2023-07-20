@@ -29,9 +29,12 @@ abstract: Mobile app developers want to maximize their revenue and hence want to
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
-# featured: false
+tags:
+- Bug Report
+- Mobile Application
+- Android Applications
+- Software Repository Mining
+featured: false
 
 links:
 - name: DOI

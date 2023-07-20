@@ -30,8 +30,11 @@ abstract: With social media’s dominating role in the socio-political landscape
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- Sentiment Analysis
+- Social Media
 # featured: false
 
 links:

@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Electronics"
 publication_short: ""
 
 abstract: Online education has emerged as an important educational medium during the COVID-19 pandemic. Despite the advantages of online education, it lacks face-to-face settings, which makes it very difficult to analyze the students’ level of interaction, understanding, and confusion. This study makes use of electroencephalogram (EEG) data for student confusion detection for the massive open online course (MOOC) platform. Existing approaches for confusion detection predominantly focus on model optimization and feature engineering is not very well studied. This study proposes a novel engineering approach that uses probability-based features (PBF) for increasing the efficacy of machine learning models. The PBF approach utilizes the probabilistic output from the random forest (RF) and gradient-boosting machine (GBM) as a feature vector to train machine learning models. Extensive experiments are performed by using the original features and PBF approach through several machine learning models with EEG data. Experimental results suggest that by using the PBF approach on EEG data, a 100% accuracy can be obtained for detecting confused students. K-fold cross-validation and performance comparison with existing approaches further corroborates the results.
@@ -29,8 +29,11 @@ abstract: Online education has emerged as an important educational medium during
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Education
+- E-learning
+- Machine Learning
+- Deep Learning
 # featured: false
 
 links:

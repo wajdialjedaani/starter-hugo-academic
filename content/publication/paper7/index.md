@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Social Network Analysis and Mining"
 publication_short: ""
 
 abstract: The development of COVID-19 vaccines has been a great relief in many countries that have been affected by the pandemic. As a result, many governments have made significant efforts to purchase and administer vaccines to their populations. However, accommodating such vaccines is typically confronted with people’s reluctance and fear. Like any other important event, COVID-19 vaccines have attracted people’s discussions on social media and impacted their opinions about vaccination.
@@ -27,8 +27,13 @@ abstract: The development of COVID-19 vaccines has been a great relief in many c
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- COVID-19
+- Sentiment Analysis
+- Arabic Detection
+- Social Media 
 # featured: false
 
 links:

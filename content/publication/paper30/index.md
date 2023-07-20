@@ -32,8 +32,9 @@ abstract: Pulsar stars, usually neutron stars, are spherical and compact objects
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
 # featured: false
 
 links:

@@ -23,21 +23,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 20th International Web for All Conference"
 publication_short: ""
 
 abstract: Nowadays, mobile applications (or apps) have become vital in our daily life, particularly within education. Many institutions increasingly rely on mobile apps to provide access to all their students. However, many education mobile apps remain inaccessible to users with disabilities who need to utilize accessibility features like talkback or screen reader features. Accessibility features have to be considered in mobile apps to foster equity and inclusion in the educational environment allowing to use of such apps without limitations. Gaps in the accessibility to educational systems persist.
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
-# featured: false
+tags:
+- Mobile applications
+- User Review
+- Accessibility
+- Deaf & Hard of Hearing
+- Android Applications
+featured: false
 
 links:
 - name: DOI
   url: https://dl.acm.org/doi/abs/10.1145/3587281.3587291
-url_pdf: https://dl.acm.org/doi/10.1145/3587281.3587291
+url_pdf: https://www.researchgate.net/profile/Wajdi-Aljedaani-2/publication/370412821_The_State_of_Accessibility_in_Blackboard_Survey_and_User_Reviews_Case_Study/links/6468d0b166b4cb4f73c32278/The-State-of-Accessibility-in-Blackboard-Survey-and-User-Reviews-Case-Study.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'

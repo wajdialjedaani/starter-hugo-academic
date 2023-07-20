@@ -30,8 +30,12 @@ abstract: In recent years, mobile applications have gained popularity for provid
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Mobile Applications
+- User Review
+- Accessibility
+- Android Applications
+- Machine Learning
 # featured: false
 
 links:

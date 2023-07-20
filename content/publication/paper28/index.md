@@ -31,8 +31,12 @@ abstract: In recent years, mobile accessibility has become an important trend wi
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- User Review
+- Accessibility
+- Machine Learning
+- Mobile Application
+- Android Applications
 # featured: false
 
 links:

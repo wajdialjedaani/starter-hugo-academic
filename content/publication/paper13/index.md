@@ -30,8 +30,13 @@ abstract: With the coronavirus (COVID-19) outbreak, educational systems worldwid
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Education
+- E-learning
+- Accessibility
+- Deaf & Hard of Hearing
+- COVID-19
+- Systematic Mapping
 # featured: false
 
 links:

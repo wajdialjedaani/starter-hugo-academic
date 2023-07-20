@@ -32,8 +32,11 @@ abstract: Bug assignment is a burden for projects receiving many bug reports. To
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Machine Learning
+- Deep Learning
+- Bug Report
+- Software Repository Mining
 # featured: false
 
 links:

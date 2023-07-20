@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
 publication_short: ""
 
 abstract: Accessibility reviews collected from app stores may contain valuable information for improving apps accessibility. Recent studies have presented insightful information on accessibility reviews, but they were based on small datasets and focused on general accessibility concerns. In this paper, we analyzed accessibility reviews that report issues affecting users with visual disabilities or conditions. Such reviews were identified based on selection criteria applied over 179,519,598 reviews of popular apps on the Google Play Store. Our results show that only 0,003% of user reviews mention visual disabilities or conditions; accessibility reviews are associated with 36 visual disabilities or eye conditions; many users do not give precise feedback and refer to their disability using generic terms; accessibility reviews can be grouped into general topics of concerns related to different types of disabilities;
@@ -31,8 +31,13 @@ abstract: Accessibility reviews collected from app stores may contain valuable i
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Mobile applications
+- Accessibility
+- User Review
+- Visual Impairments
+- Android Applications
+- Sentiment Analysis
 # featured: false
 
 links:

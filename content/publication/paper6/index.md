@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Social Network Analysis and Mining"
 publication_short: ""
 
 abstract: With the rapid expansion of social media users and the ever-increasing data exchange between them, the era of big data has arrived. Integration of big data generates enormous benefits, making it a hotspot for research. However, big data demonstrates the heterogeneity brought on by multiple data sources. Big data integration is constrained by multi-source heterogeneous data. Moreover, the rise in the volume of social media data is affecting the efficiency of data integration. This study is concerned with developing a novel framework for data integration system that can manage the heterogeneity of massive social media data. The framework is comprised of four layers data source layer, application layer, resource layer, and visualization layer. The framework establishes correlations between data stored in distributed data sources. 
@@ -27,8 +27,9 @@ abstract: With the rapid expansion of social media users and the ever-increasing
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- Social Media
+- Big Data 
 # featured: false
 
 links:
