@@ -42,7 +42,7 @@ tags:
 links:
 - name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1568494620306050
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1568494620306050
+# url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'

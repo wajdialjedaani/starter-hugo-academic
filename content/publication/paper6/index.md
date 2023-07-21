@@ -35,7 +35,7 @@ tags:
 links:
 - name: DOI
   url: https://link.springer.com/article/10.1007/s13278-022-00996-4
-url_pdf: https://www.researchgate.net/profile/Wajdi-Aljedaani-2/publication/368619937_Dynamic_Software_Containers_Workload_Balancing_Via_Many-Objective_Search/links/6411b12f66f8522c38a87abf/Dynamic-Software-Containers-Workload-Balancing-Via-Many-Objective-Search.pdf
+# url_pdf: https://www.researchgate.net/profile/Wajdi-Aljedaani-2/publication/368619937_Dynamic_Software_Containers_Workload_Balancing_Via_Many-Objective_Search/links/6411b12f66f8522c38a87abf/Dynamic-Software-Containers-Workload-Balancing-Via-Many-Objective-Search.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
