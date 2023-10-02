@@ -1,10 +1,21 @@
 ---
+
+
+
+
 # Display name
 title: Wajdi Aljedaani
 
 # Full name (for SEO)
 first_name: Wajdi
 last_name: Aljedaani
+
+
+# Content section (Markdown + HTML)
+content: >
+  My advisor is <a href="https://www.example.com/advisor">Stephanie Ludi, PhD</a>.
+
+
 
 # Status emoji
 status:
@@ -40,6 +51,7 @@ education:
     - course: Ph.D. in Computer science and Engineering
       institution: University of North Texas, Texas, USA
       year: 'Advisor: Stephanie Ludi, PhD'
+      
     
      
     - course: M.Sc. in Software Engineering
@@ -98,3 +110,7 @@ Wajdi Aljedaani is a PhD student and Teaching Follow in the Computer science and
 
  
 {style="text-align: justify;"}
+
+
+
+

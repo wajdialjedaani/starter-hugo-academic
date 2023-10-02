@@ -78,7 +78,20 @@ Student Level
 
 Undergraduate (final year) -->
 
-Instructed Semesters
+## Other Details
 
-2022 Fall
+### **Student Level**
+
+Undergraduate
+
+### **Instructed Semesters**
+
+- 2022 Fall
+
+### FAQs
+
+{{< spoiler text="From where can I access the course material?" >}}
+Course material is available on [UNT](https://my.unt.edu/) website under Resources. Additionally, students should submit there deliverables via UNT website.
+{{< /spoiler >}}
+
 

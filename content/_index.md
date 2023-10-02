@@ -72,7 +72,7 @@ sections:
       items:
         - title: Teaching Fellow 
           company: Department of Computer Science and Engineering
-          company_url: ''
+          company_url: 'https://www.unt.edu/index.html'
           company_logo: 
           location: University of North Texas, Denton, TX, USA
           date_start: '2021-05-01'
@@ -91,7 +91,7 @@ sections:
               * Supervised student projects, field trips, and, where appropriate, placements.
         - title: Teaching Assistant
           company: Department of Computer Science and Engineering
-          company_url: ''
+          company_url: 'https://www.unt.edu/index.html'
           company_logo: 
           location: University of North Texas, Denton, TX, USA
           date_start: '2021-01-01'
@@ -107,7 +107,7 @@ sections:
               * Acquired all materials needed for course instruction, including textbooks and various supplies, to ensure instruction can proceed fully.
         - title: Lecturer–Software Engineering 
           company: Al-Kharj College of Technology
-          company_url: ''
+          company_url: 'https://edu.psau.edu.sa/en'
           company_logo: 
           location: Al-Kharj, Saudi Arabia
           date_start: '2017-10-01'
@@ -123,7 +123,7 @@ sections:
               * Developed research objectives, projects, and proposals and conducted individual or collaborative research projects.
         - title: Research Assistant–Software Engineering  
           company: Rochester Institute of Technology
-          company_url: ''
+          company_url: 'https://www.rit.edu/'
           company_logo: 
           location: Rochester, NY, USA
           date_start: '2017-10-01'
@@ -155,53 +155,54 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
+        - certificate_url: https://www.unt.edu/
           date_end: ''
           date_start: '2022-01-01'
           description: ''
-          organization: University of North Texas, Denton, TX, USA
-          organization_url: ''
+          company_logo: ''
+          organization: University of North Texas
+          organization_url: https://www.unt.edu/
           title: Teaching Assistantship Scholarship ($36,400/yr)
           url: ''
-        - certificate_url: ''
+        - certificate_url: 'https://www.google.com/'
           date_end: ''
           date_start: '2021-01-01'
-          description: ''
+          description: 
           organization: University of North Texas, Denton, TX, USA
-          organization_url: ''
+          organization_url: 'https://www.google.com/'
           title: Teaching Assistantship Scholarship ($36,400/yr)
           url: ''
-        - certificate_url: ''
+        - certificate_url: 'https://www.google.com/'
           date_end: ''
           date_start: '2015-01-01'
           description: ''
           organization: Saudi Ministry of Education, Riyadh, Saudi Arabia
-          organization_url: ''
+          organization_url: 'https://www.google.com/'
           title: Full Scholarship for master's degree in software engineering
           url: ''
-        - certificate_url: ''
+        - certificate_url: 'https://www.google.com/'
           date_end: ''
           date_start: '2014-10-01'
           description: ''
           organization: Ireland
-          organization_url: ''
+          organization_url: 'https://www.google.com/'
           title: Full Scholarship for master's degree in software engineering
           url: ''
 
-        - certificate_url: ''
+        - certificate_url: 'https://www.google.com/'
           date_end: ''
           date_start: '2013-10-01'
           description: ''
           organization: Sponsored by the AIT Software Research Institute
-          organization_url: ''
+          organization_url: 'https://www.google.com/'
           title: Award the student of the Year
           url: ''
-        - certificate_url: ''
+        - certificate_url: 'https://www.google.com/'
           date_end: ''
           date_start: '2013-10-01'
           description: ''
           organization: Sponsored by Saudi Arabian Cultural Bureau Ireland
-          organization_url: ''
+          organization_url: 'https://www.google.com/'
           title: Award the Excellent student
           url: ''
         
@@ -261,6 +262,18 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+  #   design:
+  #     columns: '1'
+
+
+    
   # - block: markdown
   #   content:
   #     title: Gallery
