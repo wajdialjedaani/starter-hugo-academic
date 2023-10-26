@@ -77,6 +77,7 @@ sections:
           location: University of North Texas, Denton, TX, USA
           date_start: '2021-05-01'
           date_end: ''
+          
           description: |2-
               Responsibilities include:
               
@@ -162,15 +163,18 @@ sections:
           company_logo: ''
           organization: University of North Texas
           organization_url: https://www.unt.edu/
-          title: Teaching Assistantship Scholarship ($36,400/yr)
+          title: '<i class="fas fa-trophy"></i> Teaching Assistantship Scholarship ($36,400/yr)'
+
           url: ''
+          
+          
         - certificate_url: 'https://www.google.com/'
           date_end: ''
           date_start: '2021-01-01'
           description: 
           organization: University of North Texas, Denton, TX, USA
           organization_url: 'https://www.google.com/'
-          title: Teaching Assistantship Scholarship ($36,400/yr)
+          title: '<i class="fas fa-trophy"></i> Teaching Assistantship Scholarship ($36,400/yr)'
           url: ''
         - certificate_url: 'https://www.google.com/'
           date_end: ''
@@ -178,7 +182,7 @@ sections:
           description: ''
           organization: Saudi Ministry of Education, Riyadh, Saudi Arabia
           organization_url: 'https://www.google.com/'
-          title: Full Scholarship for master's degree in software engineering
+          title: '<i class="fas fa-trophy"></i> Full Scholarship for masters degree in software engineering'
           url: ''
         - certificate_url: 'https://www.google.com/'
           date_end: ''
@@ -186,7 +190,7 @@ sections:
           description: ''
           organization: Ireland
           organization_url: 'https://www.google.com/'
-          title: Full Scholarship for master's degree in software engineering
+          title: '<i class="fas fa-trophy"></i>   Full Scholarship for masters degree in software engineering'
           url: ''
 
         - certificate_url: 'https://www.google.com/'
@@ -195,7 +199,7 @@ sections:
           description: ''
           organization: Sponsored by the AIT Software Research Institute
           organization_url: 'https://www.google.com/'
-          title: Award the student of the Year
+          title: '<i class="fas fa-trophy"></i> Award the student of the Year'
           url: ''
         - certificate_url: 'https://www.google.com/'
           date_end: ''
@@ -203,7 +207,7 @@ sections:
           description: ''
           organization: Sponsored by Saudi Arabian Cultural Bureau Ireland
           organization_url: 'https://www.google.com/'
-          title: Award the Excellent student
+          title: '<i class="fas fa-trophy"></i> Award the Excellent student'
           url: ''
         
     design:
@@ -283,16 +287,16 @@ sections:
   #   design:
   #     columns: '1'
   
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
 
   # - block: collection
   #   id: featured
@@ -373,3 +377,5 @@ sections:
   #   design:
   #     columns: '2'
 ---
+
+

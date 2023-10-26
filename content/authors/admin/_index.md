@@ -51,9 +51,7 @@ education:
     - course: Ph.D. in Computer science and Engineering
       institution: University of North Texas, Texas, USA
       year: 'Advisor: Stephanie Ludi, PhD'
-      
-    
-     
+
     - course: M.Sc. in Software Engineering
       institution: Rochester Institute of Technology, New York, USA
       year: 'Advisor: Meiyappan Nagappan, PhD' 
@@ -106,7 +104,9 @@ user_groups:
 highlight_name: true
 ---
 
-Wajdi Aljedaani is a PhD student and Teaching Follow in the Computer science and Engineering Department at the University of North Texas. Anthony holds a Master’s in Software Engineering from Rochester Institute of Technology, a Bachelor’s in Software Engineering from Technological University of the Shannon, and Bachelor’s in Computer Engineering from Technological University of the Shannon from Ireland. As a member of the Software Maintenance and Intelligent Evolution (SMILE) Lab, Wajdi’s research is around software accessibility, and mining repository. More specifically, Wajdi studies identifier names in the source code by investigating how and why identifier names change (or evolve) in the source code. Wajdi’s research aims to improve developer productivity by constructing a linguistic model to assist developers in identifying poor-quality identifier names and recommending appropriate replacements. Additionally, Wajdi also possesses hands-on experience in the software development industry, working on software projects for clients in multiple industries. Wajdi’s industry experience includes consulting, designing, implementation, project management, and sales.
+Wajdi Aljedaani is a PhD student and Teaching Follow in the Computer science and Engineering Department at the [University of North Texas](https://www.unt.edu/?gclid=CjwKCAjw1t2pBhAFEiwA_-A-NFyspNTbYUlNNa9Ox_Afv0LQ1LcAM9dXi7--OBeDR17FA4SVikvcKBoC3iIQAvD_BwE). Anthony holds a Master’s in Software Engineering from Rochester Institute of Technology, a Bachelor’s in Software Engineering from Technological [University of the Shannon](https://www.ait.ie/), and Bachelor’s in Computer Engineering from Technological University of the Shannon from Ireland. As a member of the Software Maintenance and Intelligent Evolution (SMILE) Lab, Wajdi’s research is around software accessibility, and mining repository. More specifically, Wajdi studies identifier names in the source code by investigating how and why identifier names change (or evolve) in the source code. Wajdi’s research aims to improve developer productivity by constructing a linguistic model to assist developers in identifying poor-quality identifier names and recommending appropriate replacements. Additionally, Wajdi also possesses hands-on experience in the software development industry, working on software projects for clients in multiple industries. Wajdi’s industry experience includes consulting, designing, implementation, project management, and sales.
+
+
 
  
 {style="text-align: justify;"}
